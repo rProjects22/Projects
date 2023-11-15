@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{0B9AAD67-E4AA-4955-931F-CA2E3D15B4DC}|http">
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ClassPad">
+        <State name="__root__">
+          <Node name="Lab1.1" expanded="True">
+            <Node name="Lab1.1" expanded="True">
+              <Node name="Lab1" expanded="True">
+                <Node name="_1" expanded="True">
+                  <Node name="Controllers" expanded="True">
+                    <Node name="Lab1._1.Controllers.HomeController" expanded="True">
+                      <Node name="Index()" selected="True" />
+                    </Node>
+                  </Node>
+                  <Node name="Lab1._1.Controllers.HomeController" expanded="True" />
+                  <Node name="Lab1._1.Models.ErrorViewModel" expanded="True" />
+                </Node>
+                <Node name="Lab1._1.Controllers.HomeController" expanded="True" />
+                <Node name="Lab1._1.Models.ErrorViewModel" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Lab1.1 FirstBuild="True" PreferredExecutionTarget="/Applications/Firefox.app" />
+</Properties>
